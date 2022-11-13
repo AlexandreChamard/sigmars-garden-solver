@@ -1,0 +1,13 @@
+[
+    ["", "", "", "orange", "", ""],
+    ["green", "l1", "cyan", "cyan", "cyan", "", ""],
+    ["l2", "", "", "green", "", "light", "", "cyan"],
+    ["light", "cyan", "", "key", "l5", "green", "blue", "l4", "key"],
+    ["", "", "key", "green", "cyan", "orange", "green", "", "", "white"],
+    ["", "", "blue", "light", "dark", "l6", "white", "green", "", "blue", ""],
+    ["", "light", "", "orange", "key", "cyan", "green", "dark", "dark", ""],
+    ["cyan", "blue", "blue", "blue", "orange", "key", "", "orange", ""],
+    ["", "l3", "", "", "green", "orange", "blue", "dark"],
+    ["", "blue", "", "white", "", "", ""],
+    ["", "orange", "orange", "white", "", ""]
+]
